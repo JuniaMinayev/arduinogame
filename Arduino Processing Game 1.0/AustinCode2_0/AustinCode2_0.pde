@@ -2,6 +2,8 @@
 By: Austin Owens
 */
 //used a 560 ohm resistor for photocell
+
+// have you gotten this to work?
 int xPin = 2;	
 int yPin = 3;	
 int potPin = A0;
